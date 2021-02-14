@@ -3,7 +3,7 @@
 namespace Pasarkode;
 
 class Memcache {   
-
+ 
     private $host;
     private $port;
 

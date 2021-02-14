@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": { 
-            "Pasarkode\\": "pasarkode/"
+            "Pasarkode\\": "vendor/pasarkode/php-memcached/" 
         }
     }
 }
