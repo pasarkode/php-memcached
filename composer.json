@@ -1,0 +1,23 @@
+{
+    "name": "anovanmaximuz/php-memcached",
+    "description": "Simple memcached management",
+    "type": "library",
+    "keywords": ["memcached","codeigniter","anovan"],
+    "homepage": "https://github.com/anovanmaximuz/php-memcached",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/anovanmaximuz/php-memcached/issues"
+    },
+    "authors": [
+        {
+            "name": "Pasarkode",
+            "email": "developer@pasarkode.com",
+            "homepage": "https://pasarkode.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "ext-memcache": "^4.0"
+    }
+}
