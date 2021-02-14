@@ -19,5 +19,10 @@
     "require": {
         "php": ">=7.3",
         "ext-memcache": "^4.0"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+            "Pasarkode\\": "src/"
+        }
+    },
 }
