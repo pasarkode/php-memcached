@@ -1,6 +1,6 @@
 <?php
 
-namespace Pasarkode\Memcache;
+namespace Pasarkode;
 
 class Memcache {   
 
