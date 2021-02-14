@@ -1,6 +1,6 @@
 <?php
 
-namespace Anovanmaximuz\Memcache;
+namespace Pasarkode\Memcache;
 
 class Memcache {   
 
